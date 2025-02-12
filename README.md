@@ -2,7 +2,7 @@
 Where Creativity Meets Simplicity! 🖌️💡
 Ever wanted a platform that lets you share, explore, and showcase stunning images? Well, welcome to Boardify – an image-sharing paradise built with speed, efficiency, and modern web tech! 🌍🔥
 
-## ✨ Features That Will Blow Your Mind 💥
+## ✨ Features
 - 📌 User Authentication – Secure sign-up & login with Passport.js.
 - 🎨 Post Creation – Upload images, add descriptions & share effortlessly.
 - 🔥 Dynamic Feeds – See the latest images from users worldwide.
