@@ -38,7 +38,14 @@ Boardify is a modern, full-stack image-sharing platform built using Node.js, Exp
 ## 🌐 Live Demo
 
 🚀 **[Visit Live App Here](https://boardify-1.onrender.com)**  
-_(Replace with your actual deployed URL)_
+## 🧪 Test Credentials
+
+📛 **Username:** `xyz`  
+🔒 **Password:** `12345`
+
+> Use these credentials to log in and explore the app without signing up!
+
+
 
 ---
 
