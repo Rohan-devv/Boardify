@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const plm = require("passport-local-mongoose")
 
-mongoose.connect("mongodb://127.0.0.1:27017/Boardify");
+mongoose.connect(process.env.MONGO_URI);
 
 const userSchema = mongoose.Schema({
 

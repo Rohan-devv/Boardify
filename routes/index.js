@@ -80,8 +80,8 @@ router.get('/register', function(req, res, next) {
 
 router.post('/register', function(req, res, next) {
    // abb sun dhyan se left wala part wo hai jo users.js file mein
-   //schema mein hona chaiye 
-   //Right wali side mein form ke andar jo naam diya jata hai wo likhna hai
+   // schema mein hona chaiye 
+   // Right wali side mein form ke andar jo naam diya jata hai wo likhna hai
    // password wali chiz eses nhi deni hoi
 const Data =new userModel({
   username: req.body.username,
