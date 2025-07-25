@@ -9,7 +9,11 @@ Boardify is a modern, full-stack image-sharing platform built using Node.js, Exp
 ### 📰 Feed Page
 ![Feed Page](public/screenshots/Feed%20page.png)
 
-### 👤 Personal Feed
+### 🧑‍💼 Profile Page
+![Profile Page](public/screenshots/profile%20page.png)
+
+
+### 👤 Personal Feed of your profile
 ![Personal Feed](public/screenshots/Personal%20Feed.png)
 
 ### 📝 Register Page
