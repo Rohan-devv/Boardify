@@ -7,7 +7,7 @@ Boardify is a modern, full-stack image-sharing platform built using Node.js, Exp
 
 
 ### 📰 Feed Page
-![Feed Page](public/screenshots/Feed%20page.png)
+![Feed Page](public/screeshots/Feed%20page.png)
 
 ## 🌟 Features
 
